@@ -27,6 +27,10 @@ Observations: price of the car is sensitive to title_status, condition and odome
 
 [ridge-coefs.csv](results%2Fridge-coefs.csv)
 
+Model 3: Transformed Target Ridge Regression
+----------------------------------
+* Used Transformed Target Ridge Regression to cross-check the best features that can be used to predict the price of the car
+
 ![permutation-importance.png](results%2Fpermutation-importance.png)
 
 Results: Title status, Condition along with Odometer has significant impact on price of the car.
