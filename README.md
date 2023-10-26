@@ -24,9 +24,9 @@ Model 2: Ridge Regression
 * Ran the model with different alpha values to find the best alpha value
 
 Observations: price of the car is sensitive to title_status, condition and odometer .
-[](C:\Users\kondu\PycharmProjects\aiml-practical-application-2\results\ridge-coefs.csv)
 
+[ridge-coefs.csv](results%2Fridge-coefs.csv)
 
-![](C:\Users\kondu\PycharmProjects\aiml-practical-application-2\results\permutation-importance.png)
+![permutation-importance.png](results%2Fpermutation-importance.png)
 
 Results: Title status, Condition along with Odometer has significant impact on price of the car.
